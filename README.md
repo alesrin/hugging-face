@@ -1,4 +1,4 @@
-# Masterclass de Hugging Face
+# The Hugging Face
 
 Hola familia! Este es el material de la clase sobre Hugging Face.
 
