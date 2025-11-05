@@ -10,7 +10,7 @@ Este repo tiene todo lo que necesitas para empezar a trabajar con Hugging Face d
 
 - **requirements.txt**: Lista de todas las librerías que necesitas instalar. Spoiler: son bastantes, pero casi todas se instalan solas cuando instalas transformers.
 
-- **README.md**: Guía paso a paso de cómo instalar todo. Si tienes problemas con la instalación (que suele pasar), aquí están las soluciones a los errores más comunes.
+- **INSTALACION.md**: Guía paso a paso de cómo instalar todo. Si tienes problemas con la instalación (que suele pasar), aquí están las soluciones a los errores más comunes.
 
 ## Cómo empezar
 
